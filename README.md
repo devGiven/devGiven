@@ -1,7 +1,9 @@
-### Hi there 👋
+ # Welcome to My GitHub Profile! 👋
+
+Hello! I'm thrilled to have you here.
 
 <!--
-**devGiven/devGiven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**t-monageng/t-monageng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
